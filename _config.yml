@@ -18,10 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
+title:            Bart Slingerland
+longtitle:        Personal Portfolio of Bart Slingerland
 
-remote_theme:     sighingnow/jekyll-gitbook
 email: bart@slingerland-online.nl
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
